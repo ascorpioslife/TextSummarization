@@ -1,5 +1,5 @@
 # TextSummarization
-#A sentences based summary of Articles from Times of India.
+#A sentence based summary of Articles from Times of India.
 
 #FetchArticle.R
 using rvest package in R, performed web scraping and fetched article with headline from TOI's website.Stored it in a local file "document.txt"
