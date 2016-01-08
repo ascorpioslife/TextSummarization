@@ -7,7 +7,7 @@ using rvest package in R, performed web scraping and fetched article with headli
 #ArticleCleaning.R
 Using NLP,openNLP and qdap packages broke down articles into different sentences,removed stop words,pucntuations etc.
 
-#ScoreSentiment.R
+#ScoreSentences.R
 created a word-freqency matrix and assigned scores1 to each sentence based on the frqencies of words in that sentence.
 
 [Some more scores need to be calculated further for better algoritmic approach]
